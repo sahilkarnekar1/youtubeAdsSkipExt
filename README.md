@@ -10,12 +10,12 @@ The Youtube Ads Skip Extension helps you to automatically skip ads while watchin
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/youtube-ads-skip-extension.git
+    git clone https://github.com/sahilkarnekar1/youtubeAdsSkipExt
     ```
 
 2. **Navigate to the project directory:**
     ```bash
-    cd youtube-ads-skip-extension
+    cd youtubeAdsSkipExt
     ```
 
 3. **Load the extension in Chrome:**
